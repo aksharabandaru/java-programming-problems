@@ -1,5 +1,5 @@
 import java.util.*;
-class sumofdigit{
+class SumOfDigit{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -9,6 +9,5 @@ class sumofdigit{
             n=n/10;
         }
         System.out.println(c);
-
     }
 }
