@@ -8,6 +8,5 @@ class factofn{
             f*=i;
         }
         System.out.println(f);
-
     }
 }
