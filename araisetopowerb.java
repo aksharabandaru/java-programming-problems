@@ -9,6 +9,5 @@ class araisetopowerb{
             ans*=a;
         }
         System.out.println(ans);
-
     }
 }
