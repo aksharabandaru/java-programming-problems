@@ -3,7 +3,6 @@ class Palindrome{
         boolean flag = false;
         int r = 0;
         int rev = 0;
-
         if (x > 0) {
             int n = x;
             while (n > 0) {
